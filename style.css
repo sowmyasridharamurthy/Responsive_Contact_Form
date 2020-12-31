@@ -106,6 +106,7 @@ h2:after{
 @media screen and (max-width:880px){
     .container{
         height: 100%;
+      
     }
     .contact-box{
         grid-template-columns: 1fr;
